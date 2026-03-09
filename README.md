@@ -41,6 +41,9 @@ This project demonstrates modern full-stack development practices including REST
 
 # 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 kanban-board
 │
 ├── backend
@@ -51,10 +54,11 @@ kanban-board
 │
 ├── frontend
 │   ├── src
-│   ├── components
-│   └── App.vue
+│   │   ├── components
+│   │   └── App.vue
 │
 └── README.md
+```
 
 ---
 
